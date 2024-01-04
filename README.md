@@ -1,1 +1,1 @@
-https://api.ouoboom.xyz/api/v1/client/subscribe?token=6511aae72357005128ccc5df5cc9605d
+sn://trojan?eNolzDEOwiAUgGHqcUwgoEBh9iSvPGhMEBLb7n2Dqxdw1WPobYyriZObGv_5y79g_xLkqfS19EJ556WVWiC8N0vGaB7Dc8yvc8h1wpRhH0WpGPkwZBGwcMjbDjoQoe6IGiL6_S5RWeyic1wlY7l2xnMXW-SYVmFtdOtt8s0XHh634_10lYroAxnYLU8
